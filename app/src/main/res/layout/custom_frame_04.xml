@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<!--    <ImageView-->
+<!--        android:id="@+id/ivframebg"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="45dp"-->
+<!--        android:layout_gravity="bottom"-->
+<!--        android:src="@drawable/frame_004" />-->
+
+    <FrameLayout
+        android:id="@+id/frameLogo04"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_margin="@dimen/_5sdp">
+
+        <LinearLayout
+            android:id="@+id/linearLogo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp">
+
+            <ImageView
+                android:id="@+id/iv_logolayout_04"
+                android:layout_width="@dimen/_50sdp"
+                android:layout_height="@dimen/_50sdp" />
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="15dp"
+            android:background="#265696"
+            android:gravity="center_vertical">
+
+            <LinearLayout
+                android:id="@+id/ll_email_web"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/_20sdp"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingRight="7dp"
+                android:weightSum="3">
+
+                <LinearLayout
+                    android:id="@+id/ll_f04_call"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:paddingRight="10dp">
+
+                    <ImageView
+                        android:id="@+id/iv_calllayout_04"
+                        android:layout_width="@dimen/_12sdp"
+                        android:layout_height="@dimen/_12sdp"
+                        android:src="@drawable/phone_f04" />
+
+                    <TextView
+                        android:id="@+id/tv_mobilenumberlayout_04"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:paddingLeft="@dimen/_5sdp"
+                        android:text="7990995757"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_6sdp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+
+                <View
+                    android:layout_width="2dp"
+                    android:layout_height="@dimen/_15sdp"
+                    android:background="@color/white" />
+
+                <LinearLayout
+                    android:id="@+id/ll_f04_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/iv_emaillayout_04"
+                        android:layout_width="@dimen/_12sdp"
+                        android:layout_height="@dimen/_12sdp"
+                        android:src="@drawable/email_f04" />
+
+
+                    <TextView
+                        android:id="@+id/tv_emaillayout_04"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="@dimen/_5sdp"
+                        android:text="your company email@gmail.com"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_6sdp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/ll_f04_web"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+
+                    <ImageView
+                        android:id="@+id/iv_weblayout_04"
+                        android:layout_width="@dimen/_12sdp"
+                        android:layout_height="@dimen/_12sdp"
+                        android:src="@drawable/web_f04" />
+
+                    <TextView
+                        android:id="@+id/tv_websitelayout_04"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="@dimen/_5sdp"
+                        android:text="www.your website.com"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_6sdp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="15dp"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/rectangle" />
+        <View
+            android:layout_width="15dp"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/rectangle"/>
+
+    </RelativeLayout>
+
+</FrameLayout>

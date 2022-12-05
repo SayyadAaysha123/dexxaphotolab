@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#106a9e</color>
+    <color name="colorPrimaryDark">#106a9e</color>
+    <color name="colorAccent">#106a9e</color>
+    <color name="back_placeholder">#f9f9f9</color>
+
+    <color name="black_transparent">#2D000000</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="colorBlack">#FF000000</color>
+    <!-- <color name="colorWhite">#FF000000</color>-->
+    <color name="colorWhite">#FFFFFFFF</color>
+    <color name="colorLightWhite">#97FFFFFF</color>
+
+    <color name="colorTheame">#000000</color>
+    <!-- <color name="colorTheame">#E413619E</color>-->
+    <color name="colorTheame2">#003e6a</color>
+    <color name="colorLightTheame2">#003e6a</color>
+    <!-- <color name="colorTheame">#FF018786</color>
+     <color name="colorTheame2">#DC13619E</color>-->
+    <color name="colorLightTheame">#003e6a</color>
+    <!-- <color name="colorTheame">#EFCC4F</color>
+    <color name="colorLightTheame">#94EFCC4F</color>-->
+    <!--   <color name="colorTheame">#8A1C44</color>
+    <color name="colorLightTheame">#AB8A1C44</color>-->
+    <color name="colorLightGrey">#ABA19398</color>
+    <color name="colorLightGrey2">#8AA19398</color>
+    <color name="colorLightGrey3">#3CA19398</color>
+    <color name="hint">#cc0000</color>
+
+
+    <color name="color1">#99004C</color>
+    <color name="color2">#4C0099</color>
+    <color name="color3">#0000FF</color>
+    <color name="color4">#00FFFF</color>
+    <color name="color5">#00FF80</color>
+    <color name="color6">#FFFF00</color>
+    <color name="color7">#FF8000</color>
+    <color name="color8">#FF0000</color>
+    <color name="color9">#336600</color>
+    <color name="color10">#A0A0A0</color>
+    <color name="color11">#EFCC4F</color>
+    <color name="color12">#94EFCC4F</color>
+    <color name="color17a">#002f87</color>
+    <color name="color18">#1E90FF</color>
+    <color name="color27">#A0522D</color>
+
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_90">#263238</color>
+
+
+    <!--    payment-->
+    <color name="black">#000000</color>
+    <color name="red_600">#E53935</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="white">#ffffff</color>
+    <color name="blue_grey_300">#90A4AE</color>
+    <color name="nav_head_bg">#202020</color>
+    <color name="dark">#424242</color>
+    <color name="red_400">#EF5350</color>
+    <color name="nav_bg">#424242</color>
+    <color name="grey_400">#c4ccd4</color>
+
+    <color name="overlay_dark_20">#33000000</color>
+    <color name="overlay_dark_30">#4D000000</color>
+
+    <color name="blue_400">#42A5F5</color>
+    <color name="indigo_400">#5C6BC0</color>
+    <color name="light_green_400">#9CCC65</color>
+    <color name="blue_grey_400">#78909C</color>
+
+    <color name="paypalColor">#ffc43a</color>
+    .<color name="orange_400">#ffa726</color>
+
+    <!--    intro screen-->
+    <!-- Screens background color-->
+
+    <!-- dots inactive colors -->
+
+    <!-- dots active colors -->
+
+    <!--    Introscreen-->
+</resources>

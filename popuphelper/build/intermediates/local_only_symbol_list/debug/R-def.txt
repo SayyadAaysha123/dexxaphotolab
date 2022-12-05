@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+anim drop_down_from_top
+anim drop_down_to_bottom
+anim grow_fade_in_from_bottom
+anim hide_to_top
+anim popup_form_bottom
+anim shrink_fade_out_from_bottom
+string app_name
+style AnimationFromButtom
+style AnimationFromTop
+style AnimationUpPopup

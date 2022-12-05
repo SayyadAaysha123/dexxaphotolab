@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Bizz Poster Maker</string>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="create_custom">Custom Frame</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">1 : Select any Post</string>
+    <string name="slide_1_desc">In this application, if you want to make Diwali Festival banner maker then you create banner easily within 2 min.</string>
+    <string name="slide_2_title">Android</string>
+    <string name="slide_2_desc">Android is a mobile operating system developed by Google.</string>
+    <!--    //payment-->
+    <string name="signin">Log in</string>
+    <string name="user_name_">User Name:</string>
+    <string name="email_">Email:</string>
+    <string name="active_plan_">Active Plan:</string>
+    <string name="expire_date_">Expire Date:</string>
+    <string name="something_went_text">Something went wrong, try again or contact to your developer.</string>
+    <string name="password">Password*</string>
+    <string name="full_name">Full Name*</string>
+    <string name="email">Email*</string>
+    <string name="company_name">Company Name*</string>
+    <string name="company_add">Company Address*</string>
+    <string name="company_website">Website</string>
+    <string name="phone_number_with_country_code">Phone number (with country code)*</string>
+    <string name="male">Select your business category</string>
+    <string name="save">SAVE</string>
+    <string name="p_date">P.Date</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="status">Status</string>
+    <string name="no_internet">No internet connection !</string>
+    <string name="deactive_account_text">If you do not want to use this account you can de-active easily.</string>
+    <string name="deactivate_account">Deactivate Account</string>
+    <string name="account_deactivate_info"><![CDATA[Your account will be deactivate & only admin can activate again.]]></string>
+    <string name="enter_password">Enter Password</string>
+    <string name="reason_to_deactivate_account">Reason to deactivate account</string>
+    <string name="ccl_ok">OK</string>
+    <string name="ccl_cancel">Cancel</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="active_subscription">Active Subscription</string>
+    <string name="upgrade_membership">Upgrade Membership</string>
+    <string name="no_subscription_history">No subscription history found.</string>
+    <string name="plan">Plan</string>
+    <string name="payment_success">Payment Success.</string>
+    <string name="no_data_found">No data found.</string>
+    <string name="unlimited_movies">Ads free Version</string>
+    <string name="all_tv_series">Access All Premium design</string>
+    <string name="please_select_your_payment_method">Please select your payment method</string>
+    <string name="invalid_card">Invalid card</string>
+    <string name="by_tapping_the_button_you_agree_to_oxxo_term_amp_condition_and_privacy_policy"><![CDATA[By tapping the button, you agree to Oxxo Term & Condition and Privacy Policy.]]></string>
+    <string name="error_toast">Something went wrong ! try later</string>
+    <string name="failed_to_communicate">Failed to communicate with server. \nPlease check your API configuration</string>
+    <string name="no_configuration_data_found">No configuration data found.</string>
+    <string name="register">Register</string>
+    <string name="reset">Reset Password</string>
+    <string name="send">Send</string>
+    <string name="share_body">share value</string>
+    <string name="share_message">If you want make frestival banner easily then install this app</string>
+
+    <string-array name="paypal_currency_list">
+        <item>USD</item>
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>GBP</item>
+        <item>CAD</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>HKD</item>
+        <item>HUF</item>
+        <item>ILS</item>
+        <item>JPY</item>
+        <item>MXN</item>
+        <item>TWD</item>
+        <item>NZD</item>
+        <item>NOK</item>
+        <item>PHP</item>
+        <item>PLN</item>
+        <item>RUB</item>
+        <item>SGD</item>
+        <item>SEK</item>
+        <item>CHF</item>
+        <item>THB</item>
+    </string-array>
+
+</resources>

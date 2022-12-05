@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/adsCard"
+    android:layout_width="110dp"
+    android:layout_height="110dp"
+    android:layout_margin="5dp"
+    android:layout_marginTop="5dp"
+    app:cardCornerRadius="8dp">
+
+    <ImageView
+        android:id="@+id/imageview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:id="@+id/ll_premium"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:padding="7dp"
+            android:src="@drawable/premium_symbol" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:gravity="right|bottom">
+
+        <ImageView
+            android:id="@+id/ic_video"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:padding="3dp"
+            android:src="@drawable/ic_video"
+            android:visibility="gone"/>
+
+        <ImageView
+            android:id="@+id/ic_poster"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:padding="3dp"
+            android:src="@drawable/ic_poster" />
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+

@@ -1,0 +1,1406 @@
+[
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s26.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s26.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide1.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\welcome_slide1.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_post_single_view.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\activity_my_post_single_view.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f_facebook.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f_facebook.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_ppassword_entry_layout.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\ppassword_entry_layout.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_bottom_shit_light.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\rounded_bottom_shit_light.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_demio.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\demio.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pager_3.webp.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pager_3.webp"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_2.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\frame_2.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_done.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\ic_done.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s1.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s1.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_web_f04.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\web_f04.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_f16.jpg.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\f16.jpg"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s42.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s42.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s18.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s18.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_pager_mypost.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\item_pager_mypost.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_userholder.jpg.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\userholder.jpg"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_pactivity_stripe_payment.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\pactivity_stripe_payment.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_box_premium.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\box_premium.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s34.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s34.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide2.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\welcome_slide2.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s50.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s50.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_videos.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\fragment_videos.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s25.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s25.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qc_background_image.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\qc_background_image.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_premium_symbol.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\premium_symbol.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_1.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\frame_1.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gredient_dialog.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\gredient_dialog.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_createpost.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\nav_createpost.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_web.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_web.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_blue.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_info_blue.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s35.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s35.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_emoji_icon.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\emoji_icon.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_bnr.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\login_bnr.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s19.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s19.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s2.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s2.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_layout.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\app_bar_layout.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_email_f08.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\email_f08.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_f15.jpg.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\f15.jpg"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s41.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s41.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_crown.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\nav_crown.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_playout_payment_bottom_shit.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\playout_payment_bottom_shit.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roundcorner_view_greyclr.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\roundcorner_view_greyclr.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s32.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s32.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_showhome_pager.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\item_showhome_pager.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_setting.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\nav_setting.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s24.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s24.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rounded_primary.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\btn_rounded_primary.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_preview.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\activity_preview.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mypost.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_mypost.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_playout_deactivate.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\playout_deactivate.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_below_shadow.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\below_shadow.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_rv_mypostlist.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\item_rv_mypostlist.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_google_auth_btn.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\google_auth_btn.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qc_bacground_color.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\qc_bacground_color.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_pactivity_sign_up.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\pactivity_sign_up.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\xml_global_tracker.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\xml\\global_tracker.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_logo.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_image.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\nav_image.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_dailog_bg_local_image.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\dailog_bg_local_image.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradientbackgroundtheme.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\gradientbackgroundtheme.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_coustom_frame_1.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\coustom_frame_1.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pager_2.webp.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pager_2.webp"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s3.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s3.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_close.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\ic_close.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_up_shedow.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\up_shedow.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qc_text_font.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\qc_text_font.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_dailog_bg_color.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\dailog_bg_color.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_preview.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\activity_video_preview.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_word_logo.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\word_logo.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f1.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f1.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_frame1_layout.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\custom_frame1_layout.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_plusicon.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_plusicon.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s17.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s17.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_pactivity_firebase_sign_up.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\pactivity_firebase_sign_up.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_single_categoy_list1.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\activity_single_categoy_list1.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_f13.jpg.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\f13.jpg"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f4_left_bg.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f4_left_bg.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s52.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s52.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_view.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\round_view.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_back_primary_color.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\border_back_primary_color.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_razorpay_128.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\razorpay_128.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s27.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s27.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_above_shadow.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\above_shadow.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_email_f03.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\email_f03.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_website_icon.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\website_icon.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rounded_corner.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\btn_rounded_corner.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s30.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s30.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_1.jpg.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\img_1.jpg"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_pactivity_pass_reset.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\pactivity_pass_reset.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_aboutus.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\fragment_aboutus.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_pactivity_login.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\pactivity_login.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sub_detail.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\sub_detail.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rectangle.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\rectangle.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s37.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s37.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_contactus.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\fragment_contactus.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_warning.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_warning.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_frame_08.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\custom_frame_08.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_rv_item_colour.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\rv_item_colour.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s15.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s15.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edittextclr.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_edittextclr.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_placeholder.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bnav_cat.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\bnav_cat.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_email_f02.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\email_f02.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_frame_01.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\custom_frame_01.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_frame4_layout.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\custom_frame4_layout.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f2.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f2.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s31.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s31.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s44.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s44.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_home_view.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\card_home_view.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_dropdwon_raw.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\dropdwon_raw.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flip_icon.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\flip_icon.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_custom_image.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\activity_create_custom_image.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_google_ads.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\google_ads.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gender_spinner_outline.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\gender_spinner_outline.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_master_card.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\master_card.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s29.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s29.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_arrow.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\back_arrow.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rectangle_black_transparent.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\rectangle_black_transparent.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_frame_07.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\custom_frame_07.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qc_gallery.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\qc_gallery.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s22.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s22.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s16.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s16.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_category_list.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\category_list.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_grid_image_albums.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\item_grid_image_albums.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_video.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\nav_video.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qc_text_color.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\qc_text_color.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f3.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f3.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_call_24.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_baseline_call_24.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_69.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\frame_69.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_terms.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\activity_terms.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone_auth_btn.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\phone_auth_btn.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_frame_02.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\custom_frame_02.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_rv_fontlist.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\item_rv_fontlist.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s28.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s28.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_provider_path.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\xml\\file_provider_path.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s43.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s43.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s51.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s51.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bnav_create.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\bnav_create.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f_insta.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f_insta.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f4_line.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f4_line.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_slider_item.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\slider_item.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_f14.jpg.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\f14.jpg"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qc_copy_text_color.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\qc_copy_text_color.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_editfont.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_editfont.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cate_raw_bg_2.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\cate_raw_bg_2.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stripe_logo.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\stripe_logo.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_35.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\frame_35.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_language_icon.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\language_icon.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_view_remove_bg.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\view_remove_bg.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f1_corner.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f1_corner.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_2.jpg.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\img_2.jpg"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_show.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\activity_video_show.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_email_f07.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\email_f07.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s10.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s10.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s23.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s23.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boder_icon.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\boder_icon.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s36.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s36.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_color_popup.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\select_color_popup.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s49.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s49.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_no_item_city.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\bg_no_item_city.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_d_video_list.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\fragment_d_video_list.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_minusicon.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_minusicon.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_video_show.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\fragment_video_show.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f8.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f8.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_rv_singlecatvideolist.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\item_rv_singlecatvideolist.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dialog.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\dialog.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_frame_04.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\custom_frame_04.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_phone_f04.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\phone_f04.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_playout_package_item_2.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\playout_package_item_2.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ripple.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_pactivity_subscription.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\pactivity_subscription.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f5.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f5.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s11.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s11.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roundcorner_view.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\roundcorner_view.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qc_text_size.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\qc_text_size.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro_3.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\intro_3.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f10_bgimage2.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f10_bgimage2.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_f_10.jpg.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\f_10.jpg"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_item_show.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\activity_item_show.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_fontstyle.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\dialog_fontstyle.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_website.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\activity_website.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\font_amazon.ttf.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\font\\amazon.ttf"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\font_carter_one.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\font\\carter_one.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_video.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_video.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_plans.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\item_plans.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_icon_mail.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_icon_mail.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_emoji_icon.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\text_emoji_icon.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_circle_black.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_account_circle_black.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s12.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s12.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_dailog_fontsize.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\dailog_fontsize.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera_icon.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\camera_icon.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_home1.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\nav_home1.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_image1.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\nav_image1.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sticker_ic_close_white_18dp.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\sticker_ic_close_white_18dp.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f4_right_bg.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f4_right_bg.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_rv_viewall.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\item_rv_viewall.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_icon_lock.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_icon_lock.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_pactivity_purchase_plan.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\pactivity_purchase_plan.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_frame_005.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\frame_005.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_frame_03.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\custom_frame_03.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_text_sticker_popup.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\edit_text_sticker_popup.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_category_dropdown_raw.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\category_dropdown_raw.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_psubscription_layout.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\psubscription_layout.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f6.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f6.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s48.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s48.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instagram.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\instagram.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_coustom_frame_5.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\coustom_frame_5.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmen_mypost.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\fragmen_mypost.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_3.jpeg.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\img_3.jpeg"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_ptoast_icon_text.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\ptoast_icon_text.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rightarrow.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_rightarrow.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_frame_006.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\frame_006.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_frame8_layout.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\custom_frame8_layout.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_f_9.jpg.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\f_9.jpg"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sticker_transparent_background.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\sticker_transparent_background.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_video1.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\nav_video1.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_drop_down_white_24dp.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_arrow_drop_down_white_24dp.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twitter.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bnav_home.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\bnav_home.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f10_bgimage1.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f10_bgimage1.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_whatsapp.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\whatsapp.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rounded_dark.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\btn_rounded_dark.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_single_video_list.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\activity_single_video_list.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_frame7_layout.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\custom_frame7_layout.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_frames.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\item_frames.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_border_size_popup.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\border_size_popup.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f4.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f4.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f7.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f7.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rounded_black_transparent.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\rounded_black_transparent.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s47.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s47.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_frame_06.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\custom_frame_06.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s21.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s21.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sticker_ic_flip_white_18dp.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\sticker_ic_flip_white_18dp.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_call_f06.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\call_f06.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_home.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\nav_home.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_create_post.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\activity_create_post.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_premium_icon_vector.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\premium_icon_vector.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_sticker_pop_up.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\sticker_pop_up.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_d_image_list.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\fragment_d_image_list.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qc_overlay.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\qc_overlay.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_visa_new.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_visa_new.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_black_24dp.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro_0.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\intro_0.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bnav_post.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\bnav_post.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_item_show.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\content_item_show.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frame_34.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\frame_34.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s14.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s14.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_web_f08.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\web_f08.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roundcorner_button.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\roundcorner_button.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_createpost1.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\nav_createpost1.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rightcheck_.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_rightcheck_.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s45.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s45.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_halfcurve_shape.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\halfcurve_shape.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_email.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mailus.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_mailus.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_rv_video.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\item_rv_video.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_crown1.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\nav_crown1.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_coustom_frame_3.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\coustom_frame_3.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_poster_placeholder.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\poster_placeholder.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_website_icon.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\website_icon.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_frame_007.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\frame_007.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s53.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s53.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_rv_child_category.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\item_rv_child_category.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_close1.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\ic_close1.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sticker_ic_scale_white_18dp.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\sticker_ic_scale_white_18dp.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s38.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s38.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_location_f07.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\location_f07.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_f12.jpg.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\f12.jpg"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_package_item_2.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\layout_package_item_2.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragmen_setting.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\fragmen_setting.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_ad_banner_lay.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\ad_banner_lay.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pinterest.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pinterest.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s54.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s54.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_pactivity_razor_pay.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\pactivity_razor_pay.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_frame_001.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\frame_001.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_box_custom.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\box_custom.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_linkedin.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\linkedin.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_contactus_img.jpg.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\contactus_img.jpg"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paypal_logo.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\paypal_logo.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_view_whiteborder.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\round_view_whiteborder.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_frame_008.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\frame_008.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s13.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s13.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_view_white.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\round_view_white.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_f11.jpg.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\f11.jpg"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_create_custom_image.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\fragment_create_custom_image.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pager_1.jpg.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pager_1.jpg"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rounded_accent.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\btn_rounded_accent.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s40.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s40.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_email_f04.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\email_f04.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_callus.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_callus.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\font_berkshire_swash.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\font\\berkshire_swash.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email_auth_btn.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\email_auth_btn.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bnav_video.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\bnav_video.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook_auth_btn.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\facebook_auth_btn.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_frame_002.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\frame_002.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_circle_blue.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_check_circle_blue.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s39.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s39.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_setting1.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\nav_setting1.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_frame_bg.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\frame_bg.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rounded_unselect.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\btn_rounded_unselect.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_pactivity_profile.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\pactivity_profile.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s4.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s4.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f_twitter.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f_twitter.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_stickerlist_raw_item.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\stickerlist_raw_item.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_fliprotation_popup.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\fliprotation_popup.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_genre_home.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\card_genre_home.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_pactive_subscription_layout.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\pactive_subscription_layout.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_frame_05.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\custom_frame_05.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_frame6_layout.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\custom_frame6_layout.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_download.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_download.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s33.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s33.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_location_f08.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable-v24\\location_f08.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s20.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s20.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_f1_bg.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\f1_bg.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_bg_image.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\item_bg_image.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_ptab_subsciption.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\ptab_subsciption.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pf_s46.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\pf_s46.png"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\layout_pactivity_business_profile.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\layout\\pactivity_business_profile.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shareus.xml.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_shareus.xml"
+    },
+    {
+        "merged": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_poster.png.flat",
+        "source": "D:\\Ashish\\Bizz Projects\\Bizz-Poster Maker\\app\\src\\main\\res\\drawable\\ic_poster.png"
+    }
+]

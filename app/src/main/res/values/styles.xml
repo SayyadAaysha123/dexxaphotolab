@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- This will set the fade in animation on all your activities by default -->
+    <style name="WindowAnimationTransition">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+
+
+    <style name="RippleStyleWhite">
+        <item name="mrl_rippleOverlay">true</item>
+        <item name="mrl_rippleColor">#80FFFFFF</item>
+        <item name="mrl_rippleHover">true</item>
+        <item name="mrl_rippleAlpha">0.2</item>
+    </style>
+
+
+    <style name="RippleStyleBlack" parent="RippleStyleWhite">
+        <item name="mrl_rippleColor">#8096989A</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="EditText.GreySoft" parent="@style/AppTheme">
+        <item name="colorControlActivated">@color/grey_40</item>
+        <item name="colorControlHighlight">@color/grey_40</item>
+        <item name="colorControlNormal">@color/grey_20</item>
+    </style>
+
+    <style name="CardWidgetStyle" parent="@android:style/Theme.DeviceDefault">
+        <item name="editTextStyle">@style/EditTextOverride</item>
+        <item name="android:editTextStyle">@style/EditTextOverride</item>
+    </style>
+
+    <style name="EditTextOverride" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">@color/grey_40</item>
+        <item name="android:textColorHint">@color/grey_20</item>
+    </style>
+
+
+    <!--    //payment-->
+
+    <style name="AppThemeLight" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/amazon</item>
+        <item name="fontFamily">@font/amazon</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
+        <item name="bottomSheetDialogTheme">@style/AppBottomSheetDialogLightTheme</item>
+
+    </style>
+
+    <style name="AppBottomSheetDialogLightTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/AppModalLightStyle</item>
+
+    </style>
+
+    <style name="AppModalLightStyle"
+        parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/rounded_bottom_shit_light</item>
+    </style>
+    <style name="AppTheme.RoundedCornerMaterialButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:background">@drawable/btn_rounded_corner</item>
+    </style>
+
+
+
+<!--    payment-->
+
+</resources>
